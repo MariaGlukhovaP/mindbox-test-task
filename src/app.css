@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eaeaea;
+  font-family: "Lato", sans-serif;
+  color: #4a4a4a;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+ul,
+li,
+ol {
+  list-style: none;
+}
+
+button,
+input {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+}
+
+button {
+  cursor: pointer;
+  background: transparent;
+  color: #818181;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+}

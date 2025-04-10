@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  column-gap: 20px;
+}
+
+.active {
+  border: 1px solid #d4acb3;
+  padding: 5px;
+  border-radius: 5px;
+}

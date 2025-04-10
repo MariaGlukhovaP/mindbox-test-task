@@ -1,0 +1,34 @@
+.container {
+  margin: 50px 200px;
+}
+
+.title {
+  font-weight: 300;
+  font-size: 64px;
+  color: #d4acb3;
+  text-align: center;
+}
+
+.content {
+  padding: 12px;
+  background-color: #f9fbfd;
+  box-shadow: 1px 3px 7px 1px #dadada;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 25px;
+}
+
+.left {
+  color: #818181;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    margin: 50px 100px;
+  }
+}

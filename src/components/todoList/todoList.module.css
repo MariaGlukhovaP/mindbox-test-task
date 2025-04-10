@@ -1,0 +1,25 @@
+.list {
+  font-size: 24px;
+  font-weight: 400;
+  padding: 0;
+  margin: 12px 0;
+}
+
+.listItem {
+  position: relative;
+  padding: 15px 0;
+  font-weight: 300;
+  display: flex;
+  align-items: baseline;
+  column-gap: 10px;
+}
+
+.listItem::after {
+  content: "";
+  width: calc(100% + 12px * 2);
+  height: 0.5px;
+  left: -12px;
+  bottom: 0;
+  position: absolute;
+  background-color: #dfdfdf;
+}

@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  position: relative;
+}
+
+.container::after {
+  content: "";
+  width: calc(100% + 12px * 2);
+  height: 0.5px;
+  bottom: -15px;
+  left: -12px;
+  position: absolute;
+  background-color: #dfdfdf;
+}
+
+.input {
+  font-size: 24px;
+}
+
+.input::placeholder {
+  color: #dfdfdf;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.button {
+  color: #dfdfdf;
+}
