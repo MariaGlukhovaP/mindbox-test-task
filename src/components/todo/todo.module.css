@@ -32,3 +32,13 @@
     margin: 50px 100px;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .container {
+    margin: 50px;
+  }
+  .bottom {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+}
