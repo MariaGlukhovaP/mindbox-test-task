@@ -71,7 +71,7 @@ npm run test
 
 ## 🌐 Live Demo
 
-> 👉 _Link to the deployed app:_ [https://your-deployment-url](https://mariaglukhovap.github.io/mindbox-test-task/)
+> 👉 _Link to the deployed app:_ [https://mariaglukhovap.github.io/mindbox-test-task](https://mariaglukhovap.github.io/mindbox-test-task/)
 
 ---
 
