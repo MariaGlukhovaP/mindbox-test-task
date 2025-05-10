@@ -1,34 +1,34 @@
-# 📝 ToDo App — Test Task for Frontend Junior (Mindbox)
+# 📝 ToDo App — Тестовое задание для Frontend Junior (Mindbox)
 
-A simple yet functional ToDo application built with **React**, **TypeScript**, and **React Hooks**.
+Простое, но функциональное приложение для управления списком дел, разработанное на React, TypeScript и React Hooks.
 
 ![Preview](capture_20250410200531019.bmp)
 
-## 📦 Installation & Usage
+## 📦 Установка и использование
 
-### 🔧 Install dependencies
+### 🔧 Установка зависимостей
 
 ```bash
 npm i
 ```
 
-### ▶️ Run in development mode
+### ▶️ Запуск в режиме разработки
 
-Automatically reloads on file changes:
+Автоматическая перезагрузка при изменениях файлов:
 
 ```bash
 npm run start
 ```
 
-### 🏗 Create a production build
+### 🏗 Сборка production-версии
 
-Generates static files for deployment:
+Генерация статических файлов для деплоя:
 
 ```bash
 npm run build
 ```
 
-### 🚀 Deploy to GitHub Pages (optional)
+### 🚀 Деплой на GitHub Pages (опционально)
 
 You may need `ssh-agent` configured:
 
@@ -37,7 +37,7 @@ npm run build
 npm run deploy
 ```
 
-### ✅ Run tests
+### ✅ Запуск тестов
 
 ```bash
 npm run test
@@ -45,7 +45,7 @@ npm run test
 
 ---
 
-## 🧪 Task Requirements
+## 🧪 Требования к заданию
 
 ### 🇷🇺 Задание
 
@@ -69,13 +69,13 @@ npm run test
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Демо-версия
 
-> 👉 _Link to the deployed app:_ [https://mariaglukhovap.github.io/mindbox-test-task](https://mariaglukhovap.github.io/mindbox-test-task/)
+> 👉👉 Ссылка на приложение: [https://mariaglukhovap.github.io/mindbox-test-task](https://mariaglukhovap.github.io/mindbox-test-task/)
 
 ---
 
-## 📁 Technologies Used
+## 📁 Использованные технологии
 
 - React
 - TypeScript
